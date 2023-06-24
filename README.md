@@ -30,7 +30,8 @@
 # CITY : Pampa 
 # CONTINENT : North America 
 # TIMEZONE : America/Chicago 
-# DATE : 11 May, 2022, Time : 1:58 am 
+# DATE : 11 May, 2022, Time : 1:58 am
+# USER AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) V 
 # See more sample on > samples
 ```
 
