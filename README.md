@@ -7,31 +7,33 @@
 ```
 # Samples
 -----------------------------------------------------------------
-# ACCOUNT : dapperd9@yahoo.com 
-# PASSWORD : michaeld9 
+# Email :: stevocolla@yahoo.com
+# Password :: Goo[Purchase for more]
 -----------------------------------------------------------------
-# IP ADDRESS : 73.248.49.28 
-# ISP : 
-# REGION : New Jersey 
-# CITY : Mount Holly 
-# CONTINENT : North America 
-# TIMEZONE : America/New_York 
-# DATE : 12 May, 2022, Time : 12:21 am 
-# USER AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) V
+# Bank :: CHASE
+# Type :: VISA - CREDIT
+# Level :: TRADITIONAL
+# Card Holder :: steven a. colla
+# Card Number :: 4147202472092392
+# Expired :: 12/25
+# CVV :: 1[Purchase for more]
+# Amex CID :: -
+# Account Number :: -
+# Sort Code :: -
+# Credit Limit :: -
+# For Check :: 4147202472092392|12|25|[Purchase for more]
 -----------------------------------------------------------------
-# Samples
+# Card Password :: -
+# WEB ID :: -
 -----------------------------------------------------------------
-# ACCOUNT : johnbanman8220@yahoo.com 
-# PASSWORD : Sara521987lisa 
------------------------------------------------------------------
-# IP ADDRESS : 139.60.76.189 
-# ISP : 
-# REGION : Texas 
-# CITY : Pampa 
-# CONTINENT : North America 
-# TIMEZONE : America/Chicago 
-# DATE : 11 May, 2022, Time : 1:58 am
-# USER AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) V 
+# Full Name :: Steve Colla
+# Address 1 :: 3050 Portside Dr.
+# City :: Prescott
+# State :: Az
+# Zip :: 86301
+# Country :: United States
+# DOB :: 08/23/1962
+# Phone Number :: 6029801948
 # See more sample on > samples
 ```
 
