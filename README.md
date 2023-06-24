@@ -31,7 +31,7 @@
 # CONTINENT : North America 
 # TIMEZONE : America/Chicago 
 # DATE : 11 May, 2022, Time : 1:58 am 
-# See more samples on > view code
+# See more sample on > samples
 ```
 
 ## More
