@@ -8,7 +8,7 @@
 # Samples
 -----------------------------------------------------------------
 # Email :: stevocolla@yahoo.com
-# Password :: Goo[Purchase for more]
+# Password :: Goombas#1
 -----------------------------------------------------------------
 # Bank :: CHASE
 # Type :: VISA - CREDIT
@@ -16,12 +16,12 @@
 # Card Holder :: steven a. colla
 # Card Number :: 4147202472092392
 # Expired :: 12/25
-# CVV :: 1[Purchase for more]
+# CVV :: 100
 # Amex CID :: -
 # Account Number :: -
 # Sort Code :: -
 # Credit Limit :: -
-# For Check :: 4147202472092392|12|25|[Purchase for more]
+# For Check :: 4147202472092392|12|25|100
 -----------------------------------------------------------------
 # Card Password :: -
 # WEB ID :: -
