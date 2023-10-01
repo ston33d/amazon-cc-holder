@@ -40,4 +40,4 @@
 ## More
 i don't give services like this anymore
 <br>just don't use for something bad</br>
-ask and more about this, message [me](https://instagram.com/ppahme).
+wanna talk about this? call [me](https://instagram.com/ppahme).
